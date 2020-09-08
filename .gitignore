@@ -10,8 +10,6 @@
 .DS_Store
 /.idea
 /build
-/gradle
-gradlew
 gradlew.bat
 /captures
 .externalNativeBuild
